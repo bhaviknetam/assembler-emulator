@@ -1,0 +1,8 @@
+Error in line no.: 4 label :Duplicate Label
+Error in line no.: 6 ldc 08ge :Not a number
+Error in line no.: 7 ldc  :Missing Operand
+Error in line no.: 8 add 5 :Unexpected Operand
+Error in line no.: 9 ldc 5, 6 :extra on end of line
+Error in line no.: 10 0def :Bogus Labelname
+Error in line no.: 11 fibble :Bogus Mnemonic
+Error in line no.: 12 0def :Bogus Mnemonic
